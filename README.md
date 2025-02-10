@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @notanth or Ant(h) for short;
-- 👀 I’m interested in web frameworks, all things python, tech, and so on, so I can work in web development/SaaS, whether it be on my own projects/in a dev role/supporting tech teams from the finance, data, FP&A side of the business
-- 🌱 I’m currently learning: Python, Django, etc 
-- 💞️ I’m looking to build my own microSaaS...
+- 👀 I’m interested in web development, all things python, and new frameworks and tools so I can work in web development/SaaS, whether it be on my own projects/in a dev role/supporting tech teams from the finance, data, FP&A side of the business
+- 🌱 I’m currently learning: Python, Django, HTMX
+- 💞️ I’m looking to build my own microSaaS and land a dev role!
 - 📫 How to reach me: here, twitter (@not_anth)
 
 <!---
