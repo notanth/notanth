@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @notanth or Ant(h) for short;
+- 👋 Hi, I’m @notanth (Anth);
 - 👀 I’m interested in web development, all things python, and new frameworks and tools.
-- 🌱 I’m currently learning: Python, Django, HTMX.
-- 💞️ I’m looking to build my own microSaaS and projects
+- 🌱 I’m currently learning: Python, Django, HTMX, pandas
+- 💞️ I’m looking to build my own microSaaS and tinker with data projects
 - 📫 How to reach me: here, twitter (@not_anth)
 
 <!---
